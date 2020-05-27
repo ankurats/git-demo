@@ -1,0 +1,1 @@
+Hello everyone IN GIT hands-on session 
