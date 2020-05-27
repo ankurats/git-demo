@@ -1,1 +1,1 @@
-Hello everyone IN GIT hands-on session 
+Hello Infogainers IN GIT hands-on session 
